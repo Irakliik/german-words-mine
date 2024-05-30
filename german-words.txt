@@ -37,7 +37,7 @@ Der pfeil – arrow
 Der Gegenstand – object
 Der schornstein – chimney
 Der bewohner – resident
-Beobachten – observe
+Beobachten –  დააკვირდე
 Lagern – to store
 Die pfanne – frying pan
 Der vorhang – curtains
