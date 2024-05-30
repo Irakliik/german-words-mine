@@ -34,6 +34,7 @@ Das Dachgeschoss – loft
 Die umgebung – vicinity
 Die gardine – curtaine
 Der pfeil – arrow
+zaza
 Der Gegenstand – object
 Der schornstein – chimney
 Der bewohner – resident
