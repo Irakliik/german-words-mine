@@ -206,7 +206,6 @@ die Menge - crowd
 betreiben - to operate
 überleben - to survive
 längerfristig - long run
-vorhaben - to refuse
 sich weigern - to refuse
 die Wahrnehmung - perception
 stets - always
@@ -214,3 +213,55 @@ vertreten - represent
 bereits - already
 aufgrund (genitiv) - due to
 ablaufen - expire
+mischen - to mix
+erkennen - to recognize
+die Zuneigung - affection
+sich verlassen auf - rely on
+steuern - to controll
+das bedürfnis - need
+vielfältig - diverse
+der Umgang - handling
+empfinden - to feel
+​die Ebene - level
+die Äußerung - expression
+beflügeln - to inspire
+die Leidenschaft - passion
+die Treue - loyalty
+gegenseitig - mutual
+dringend - urgent
+Begleiterscheinung - side effect
+anhand - based
+die Eigenheit - peculiarity
+der nachteil - disadvantage
+stur - stubborn
+verdeutlichen - to clarify
+schmeißen - to throw
+ablenken - to distract
+befriedigen - to satisfy
+die Schlange - რიგი
+unverschämt - outrageous
+mich verarschen - kidding me
+nachvollziehen - comprehend
+verziehen - to forgive
+ersetzen - substitute
+die finsternis - darkness
+die Erlaubnis - permission
+die/das Versäumnis - omission
+das Erlebnis - experience
+das Geheimnis - secret
+die Wildnis - wilderness
+das Hindernis - obstacle
+die Kenntnis - knowledge
+allerdings - however
+der Zufall - coincidence
+nachher - afterward
+anschließend - afterward
+eher - more
+betreffen - to affect
+die Gegend - area
+schweben - hover , float
+grübeln - ponder
+verschwenden - to waste
+verarbeiten - to process
+einsam - lonely
+
