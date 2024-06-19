@@ -292,3 +292,4 @@ rauschen  - to rustle
 rasten - to take a rest
 weiter machen - to continue doing something
 verklemmen – to get stuck
+treten - to step
