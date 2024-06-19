@@ -264,4 +264,20 @@ grübeln - ponder
 verschwenden - to waste
 verarbeiten - to process
 einsam - lonely
+gruselig - scary
+niedergeschlagen - depressed
+vermuten - assume
+es kommt darauf an - it depends
+äußerst - extremely
+gegensätzlich - opposing
+behaupten - claim
+ursprünglich - originally
+daher - therefore
+die Fläche - area
+das ist nicht der Fall - it is not the case
+vorkommen - to happen
+das Vorurteil - prejudice
+erstellen - to create
+rechtfertigen - to justify
+begegnen - to encounter
 
